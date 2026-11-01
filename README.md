@@ -1,3 +1,5 @@
+
+
 &#x20;**AI VIDEO PORTFOLIO**
 
 
@@ -16,7 +18,40 @@ I create engaging, realistic and cinematic AI-generated videos that help brands 
 
 My work combines AI video generation, creative storytelling, visual direction and prompt engineering.
 
+---
 
+## MY PORTFOLIO
+
+### 1. COMMERCIAL ADS
+AI-generated advertisements designed to showcase products and promote businesses.
+
+- Project 1 – [Watch Video](https://drive.google.com/file/d/1NtcLgmWd3dpGGmk2lsYPZ-DweVYpXe4S/view?usp=drive_link)
+- Project 2 – [Watch Video](https://drive.google.com/file/d/1NtcLgmWd3dpGGmk2lsYPZ-DweVYpXe4S/view?usp=drive_link)
+
+### 2. BRAND VIDEOS
+Creative promotional videos and brand storytelling.
+
+- Project 1 – [Watch Video](https://drive.google.com/file/d/1xZ4hGbjgkBK6Qyl7fG91mh9vSuqzsS1q/view?usp=drive_link)
+
+### 3. PERSONAL CREATIVE PROJECTS
+Experimental AI videos, cinematic storytelling and creative concepts.
+
+- Project 1 – [Watch Video](https://drive.google.com/file/d/1ywdqD6xdis5MtfJutSvZuOuuVvmr2u6_/view?usp=drive_link)
+- Project 2 – [Watch Video](https://drive.google.com/file/d/1qmi1xSHTb5Mmjhh056OP_5YPKcuB55Y9/view?usp=drive_link)
+
+---
+
+## TOOLS & CREATIVE SKILLS
+
+- AI Video Generation
+- Creative Direction
+- Prompt Engineering
+- Visual Storytelling
+- Commercial Video Production
+
+## CONTACT
+
+Available for freelance projects and brand collaborations.
 
 
 
